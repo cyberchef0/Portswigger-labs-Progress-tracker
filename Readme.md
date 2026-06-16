@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-37-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--00--00-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-13%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-39-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 19 of 61
-- **Practitioner**: 17 of 174
+- **Practitioner**: 19 of 174
 - **Expert**: 1 of 39
 
 ## Categories Covered
@@ -15,10 +15,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 4/18 lab
 - **Access control**: 5/13 lab
 - **Cross-site request forgery (CSRF)** 1/12 lab
-- **Cross-site scripting** 6/30 
+- **Cross-site scripting** 7/30 
 - **Prototype pollution** 10/10
 - **GraphQL API vulnerabilities** 3/5
 - **API testing** 3/5
+- **DOM-based vulnerabilities** 1/7
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -43,5 +44,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 2  | 2026-06-15 |  Prototype pollution    | Bypassing flawed input filters for server-side prototype pollution | PRACTITIONER | N/A |
 | 3  | 2026-06-15 |  Prototype pollution    | Remote code execution via server-side prototype pollution | PRACTITIONER | N/A |
 | 4  | 2026-06-15 |  Prototype pollution    | Exfiltrating sensitive data via server-side prototype pollution | Expert | N/A |
+| 5  | 2026-06-16 |   Cross-site scripting  |  DOM XSS in document.write sink using source location.search inside a select element | PRACTITIONER | N/A |
+| 5  | 2026-06-16 |  DOM-based vulnerabilities   | DOM-based cookie manipulation | PRACTITIONER | N/A |
+| 5  | 2026-00-00 |     |  |  | N/A |
+| 5  | 2026-00-00 |     |  |  | N/A |
+| 5  | 2026-00-00 |     |  |  | N/A |
 | 5  | 2026-00-00 |     |  |  | N/A |
 
