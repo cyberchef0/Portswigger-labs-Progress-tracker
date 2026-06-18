@@ -46,8 +46,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 4  | 2026-06-15 |  Prototype pollution    | Exfiltrating sensitive data via server-side prototype pollution | Expert | N/A |
 | 5  | 2026-06-16 |   Cross-site scripting  |  DOM XSS in document.write sink using source location.search inside a select element | PRACTITIONER | N/A |
 | 5  | 2026-06-16 |  DOM-based vulnerabilities   | DOM-based cookie manipulation | PRACTITIONER | N/A |
-| 5  | 2026-00-00 |  SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
-| 5  | 2026-00-00 |  SQL injection   |  |  | N/A |
-| 5  | 2026-00-00 |  SQL injection   |  |  | N/A |
-| 5  | 2026-00-00 |  SQL injection   |  |  | N/A |
+| 5  | 2026-06-18 |  SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
+| 5  | 2026-06-18 |  SQL injection   | SQL injection vulnerability allowing login bypass | APPRENTICE | N/A |
+| 5  | 2026-06-18 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER | N/A |
+| 5  | 2026-06-18 |  SQL injection   | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
 
