@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 19 of 61
-- **Practitioner**: 19 of 174
+- **Practitioner**: 20 of 174
 - **Expert**: 1 of 39
 
 ## Categories Covered
@@ -15,7 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 4/18 lab
 - **Access control**: 5/13 lab
 - **Cross-site request forgery (CSRF)** 1/12 lab
-- **Cross-site scripting** 7/30 
+- **Cross-site scripting** 8/30 
 - **Prototype pollution** 10/10
 - **GraphQL API vulnerabilities** 3/5
 - **API testing** 3/5
