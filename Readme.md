@@ -15,7 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 4/18 lab
 - **Access control**: 5/13 lab
 - **Cross-site request forgery (CSRF)** 1/12 lab
-- **Cross-site scripting** 8/30 
+- **Cross-site scripting** /30 
 - **Prototype pollution** 10/10
 - **GraphQL API vulnerabilities** 3/5
 - **API testing** 3/5
@@ -45,9 +45,18 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 3  | 2026-06-15 |  Prototype pollution    | Remote code execution via server-side prototype pollution | PRACTITIONER | N/A |
 | 4  | 2026-06-15 |  Prototype pollution    | Exfiltrating sensitive data via server-side prototype pollution | Expert | N/A |
 | 5  | 2026-06-16 |   Cross-site scripting  |  DOM XSS in document.write sink using source location.search inside a select element | PRACTITIONER | N/A |
-| 5  | 2026-06-16 |  DOM-based vulnerabilities   | DOM-based cookie manipulation | PRACTITIONER | N/A |
-| 5  | 2026-06-18 |  SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
-| 5  | 2026-06-18 |  SQL injection   | SQL injection vulnerability allowing login bypass | APPRENTICE | N/A |
-| 5  | 2026-06-18 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER | N/A |
-| 5  | 2026-06-18 |  SQL injection   | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
+| 6  | 2026-06-16 |  DOM-based vulnerabilities   | DOM-based cookie manipulation | PRACTITIONER | N/A |
+| 7  | 2026-06-18 |  SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
+| 8  | 2026-06-18 |  SQL injection   | SQL injection vulnerability allowing login bypass | APPRENTICE | N/A |
+| 9  | 2026-06-18 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER | N/A |
+| 10  | 2026-06-18 |  SQL injection   | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
+| 11  | 2026-06-18 |  XSS   |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded| PRACTITIONER | N/A |
+| 12  | 2026-06-18 |   XSS  | PRACTITIONER Reflected DOM XSS| PRACTITIONER | N/A |
+| 13  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 14  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 15  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 16  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 17  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 18  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 19  | 2026-06-18 |     |  | PRACTITIONER | N/A |
 
