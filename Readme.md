@@ -53,8 +53,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 11  | 2026-06-18 |  XSS   |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded| PRACTITIONER | N/A |
 | 12  | 2026-06-18 |   XSS  | PRACTITIONER Reflected DOM XSS| PRACTITIONER | N/A |
 | 13  | 2026-06-18 |  XSS   | Stored DOM XSS | PRACTITIONER | N/A |
-| 14  | 2026-06-18 |  XSS   | Reflected XSS into HTML context with most tags and attributes blocked
- | PRACTITIONER | N/A |
+| 14  | 2026-06-18 |  XSS   | Reflected XSS into HTML context with most tags and attributes blocked| PRACTITIONER | N/A |
 | 15  | 2026-06-18 |     |  | PRACTITIONER | N/A |
 | 16  | 2026-06-18 |     |  | PRACTITIONER | N/A |
 | 17  | 2026-06-18 |     |  | PRACTITIONER | N/A |
