@@ -15,7 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 4/18 lab
 - **Access control**: 5/13 lab
 - **Cross-site request forgery (CSRF)** 1/12 lab
-- **Cross-site scripting** 15/30 
+- **Cross-site scripting** /30 
 - **Prototype pollution** 10/10
 - **GraphQL API vulnerabilities** 3/5
 - **API testing** 3/5
@@ -54,8 +54,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 12  | 2026-06-18 |   XSS  | PRACTITIONER Reflected DOM XSS| PRACTITIONER | N/A |
 | 13  | 2026-06-18 |  XSS   | Stored DOM XSS | PRACTITIONER | N/A |
 | 14  | 2026-06-18 |  XSS   | Reflected XSS into HTML context with most tags and attributes blocked| PRACTITIONER | N/A |
-| 15  | 2026-06-18 |     |  | PRACTITIONER | N/A |
-| 16  | 2026-06-18 |     |  | PRACTITIONER | N/A |
+| 15  | 2026-06-19 |  XSS   | Reflected XSS into HTML context with all tags blocked except custom ones | PRACTITIONER | N/A |
+| 16  | 2026-06-19 |   XSS  | Reflected XSS with some SVG markup allowed | PRACTITIONER | N/A |
 | 17  | 2026-06-18 |     |  | PRACTITIONER | N/A |
 | 18  | 2026-06-18 |     |  | PRACTITIONER | N/A |
 | 19  | 2026-06-18 |     |  | PRACTITIONER | N/A |
