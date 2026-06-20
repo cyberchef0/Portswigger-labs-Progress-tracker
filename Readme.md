@@ -12,7 +12,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 4/14 lab
-- **SQL injection**: 4/18 lab
+- **SQL injection**: 14/18 lab
 - **Access control**: 5/13 lab
 - **Cross-site request forgery (CSRF)** 1/12 lab
 - **Cross-site scripting** /30 
