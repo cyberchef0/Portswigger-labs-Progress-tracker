@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-39-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-39-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--16-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 19 of 61
-- **Practitioner**: 20 of 174
+- **Practitioner**: 30 of 174
 - **Expert**: 1 of 39
 
 ## Categories Covered
