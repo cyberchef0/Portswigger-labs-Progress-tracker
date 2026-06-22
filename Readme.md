@@ -14,7 +14,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication vulnerabilities**: 4/14 lab
 - **SQL injection**: 14/18 lab
 - **Access control**: 5/13 
-- **Cross-site request forgery (CSRF)** 3/12 lab
+- **Cross-site request forgery (CSRF)** 7/12 lab
 - **Cross-site scripting** 15/30 
 - **Prototype pollution** 10/10
 - **GraphQL API vulnerabilities** 3/5
