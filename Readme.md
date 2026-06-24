@@ -56,7 +56,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 14  | 2026-06-18 |  XSS   | Reflected XSS into HTML context with most tags and attributes blocked| PRACTITIONER | N/A |
 | 15  | 2026-06-19 |  XSS   | Reflected XSS into HTML context with all tags blocked except custom ones | PRACTITIONER | N/A |
 | 16  | 2026-06-19 |   XSS  | Reflected XSS with some SVG markup allowed | PRACTITIONER | N/A |
-| 17  | 2026-06-18 |     |  | PRACTITIONER | N/A |
-| 18  | 2026-06-18 |     |  | PRACTITIONER | N/A |
-| 19  | 2026-06-18 |     |  | PRACTITIONER | N/A |
-
+| 17  | 2026-06-21 |   CSRF  | CSRF vulnerability with no defenses | PRACTITIONER | N/A |
+| 18  | 2026-06-21 |     | CSRF where token validation depends on request method | PRACTITIONER | N/A |
+| 19  | 2026-06-21 |   CSRF  | CSRF where token validation depends on token being present | PRACTITIONER | N/A |
+| 20  | 2026-06-22 |   CSRF  | CSRF where token is not tied to user session
+ | PRACTITIONER | N/A |
+| 21  | 2026-06-22 |   CSRF  | CSRF where token is tied to non-session cookie | PRACTITIONER | N/A |
+| 22  | 2026-06-22 |   CSRF  | CSRF where token is duplicated in cookie | PRACTITIONER | N/A |
+| 24  | 2026-06-22 |   CSRF  | SameSite Lax bypass via method override | PRACTITIONER | N/A |
+| 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
+| 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
+| 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
+| 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
