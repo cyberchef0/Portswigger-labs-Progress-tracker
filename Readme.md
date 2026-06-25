@@ -62,7 +62,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 20  | 2026-06-22 |   CSRF  | CSRF where token is not tied to user session| PRACTITIONER | N/A |
 | 21  | 2026-06-22 |   CSRF  | CSRF where token is tied to non-session cookie | PRACTITIONER | N/A |
 | 22  | 2026-06-22 |   CSRF  | CSRF where token is duplicated in cookie | PRACTITIONER | N/A |
-| 24  | 2026-06-22 |   CSRF  | SameSite Lax bypass via method override | PRACTITIONER | N/A |
+| 22  | 2026-06-23 |   CSRF  | SameSite Lax bypass via method override | PRACTITIONER | N/A |
+| 23  | 2026-06-23 |   OAuth authentication  | Authentication bypass via OAuth implicit flow | APPRENTICE | N/A |
+| 24  | 2026-06-24 |   OAuth authentication  | Forced OAuth profile linking | PRACTITIONER | N/A |
+| 24  | 2026-06-24 |   OAuth authentication  | OAuth account hijacking via redirect_uri | PRACTITIONER | N/A |
+| 25  | 2026-06-25 |   OAuth authentication  | Stealing OAuth access tokens via an open redirec | PRACTITIONER | N/A |
+| 25  | 2026-06-25 |   OAuth authentication  | Stealing OAuth access tokens via a proxy page | EXPERT | N/A |
 | 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
 | 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
 | 23  | 2026-06-18 |   CSRF  |  | PRACTITIONER | N/A |
