@@ -74,4 +74,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 32  | 2026-06-26 |   SSRF  | Blind SSRF with out-of-band detection | PRACTITIONER | N/A |
 | 33  | 2026-06-26 |   SSRF  | SSRF with blacklist-based input filter | PRACTITIONER | N/A |
 | 34  | 2026-06-26 |   SSRF  | SSRF with filter bypass via open redirection vulnerability | PRACTITIONER | N/A |
+| 35  | 2026-06-26 |   Path traversal  | File path traversal, simple case | APPRENTICE | N/A |
+| 36  | 2026-06-26 |   Path traversal  | File path traversal, traversal sequences blocked with absolute path bypass | PRACTITIONER | N/A |
+| 37  | 2026-06-26 |   Path traversal  | File path traversal, traversal sequences stripped non-recursively | PRACTITIONER | N/A |
+| 38  | 2026-06-26 |   Path traversal  | File path traversal, traversal sequences stripped with superfluous URL-decode | PRACTITIONER | N/A |
+| 39  | 2026-06-26 |   Path traversal  | File path traversal, validation of start of path | PRACTITIONER | N/A |
+| 40  | 2026-06-26 |   Path traversal  | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
+| 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
 | 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
