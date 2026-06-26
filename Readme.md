@@ -57,7 +57,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 15  | 2026-06-19 |  XSS   | Reflected XSS into HTML context with all tags blocked except custom ones | PRACTITIONER | N/A |
 | 16  | 2026-06-19 |   XSS  | Reflected XSS with some SVG markup allowed | PRACTITIONER | N/A |
 | 17  | 2026-06-21 |   CSRF  | CSRF vulnerability with no defenses | PRACTITIONER | N/A |
-| 18  | 2026-06-21 |     | CSRF where token validation depends on request method | PRACTITIONER | N/A |
+| 18  | 2026-06-21 |   CSRF  | CSRF where token validation depends on request method | PRACTITIONER | N/A |
 | 19  | 2026-06-21 |   CSRF  | CSRF where token validation depends on token being present | PRACTITIONER | N/A |
 | 20  | 2026-06-22 |   CSRF  | CSRF where token is not tied to user session| PRACTITIONER | N/A |
 | 21  | 2026-06-22 |   CSRF  | CSRF where token is tied to non-session cookie | PRACTITIONER | N/A |
@@ -68,7 +68,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 26  | 2026-06-24 |   OAuth authentication  | OAuth account hijacking via redirect_uri | PRACTITIONER | N/A |
 | 27  | 2026-06-25 |   OAuth authentication  | Stealing OAuth access tokens via an open redirec | PRACTITIONER | N/A |
 | 28  | 2026-06-25 |   OAuth authentication  | Stealing OAuth access tokens via a proxy page | EXPERT | N/A |
-| 28  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 29  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 30  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 29  | 2026-06-25 |   CSRF  | SameSite Strict bypass via client-side redirect | PRACTITIONER | N/A |
+| 30  | 2026-06-26 |   SSRF  | Basic SSRF against the local server | PRACTITIONER | N/A |
+| 31  | 2026-06-26 |   SSRF  | Basic SSRF against another back-end system | APPRENTICE | N/A |
+| 32  | 2026-06-26 |   SSRF  | Blind SSRF with out-of-band detection | PRACTITIONER | N/A |
+| 33  | 2026-06-26 |   SSRF  | SSRF with blacklist-based input filter | PRACTITIONER | N/A |
+| 34  | 2026-06-26 |   SSRF  | SSRF with filter bypass via open redirection vulnerability | PRACTITIONER | N/A |
 | 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
