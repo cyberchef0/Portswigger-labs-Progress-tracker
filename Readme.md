@@ -80,6 +80,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 38  | 2026-06-26 |   Path traversal  | File path traversal, traversal sequences stripped with superfluous URL-decode | PRACTITIONER | N/A |
 | 39  | 2026-06-26 |   Path traversal  | File path traversal, validation of start of path | PRACTITIONER | N/A |
 | 40  | 2026-06-26 |   Path traversal  | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
-| 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 31  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 37  | 2026-06-18 |   JWT  | JWT authentication bypass via unverified signature | APPRENTICE | N/A |
+| 38  | 2026-06-18 |   JWT  | JWT authentication bypass via flawed signature verification | APPRENTICE | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
