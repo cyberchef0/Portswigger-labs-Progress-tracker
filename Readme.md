@@ -82,9 +82,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 40  | 2026-06-26 |   Path traversal  | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
 | 37  | 2026-06-18 |   JWT  | JWT authentication bypass via unverified signature | APPRENTICE | N/A |
 | 38  | 2026-06-18 |   JWT  | JWT authentication bypass via flawed signature verification | APPRENTICE | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   JWT  | JWT authentication bypass via weak signing key | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   JWT  | JWT authentication bypass via jwk header injection | PRACTITIONER | N/A |
+| 39  | 2026-06-18 |   JWT  | JWT authentication bypass via jku header injection | PRACTITIONER | N/A |
 | 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
 | 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
 | 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
