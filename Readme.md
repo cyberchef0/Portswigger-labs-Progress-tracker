@@ -89,9 +89,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 46  | 2026-07-2 |   JWT  | JWT authentication bypass via kid header path traversal | PRACTITIONER | N/A |
 | 47  | 2026-07-2 |   JWT  | JWT authentication bypass via algorithm confusion | EXPERT | N/A |
 | 48  | 2026-07-2 |   JWT  | JWT authentication bypass via algorithm confusion with no exposed key | EXPERT | N/A |
-| 49  | 2026-06-18 |   Business logic vulnerabilities  | Excessive trust in client-side controls | APPRENTICE | N/A |
-| 51  | 2026-06-18 |   Business logic vulnerabilities  | High-level logic vulnerability | APPRENTICE | N/A |
-| 52  | 2026-06-18 |   Business logic vulnerabilities  | Inconsistent security controls | APPRENTICE | N/A |
-| 53  | 2026-06-18 |   Business logic vulnerabilities  | Flawed enforcement of business rules | APPRENTICE | N/A |
-| 54  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 49  | 2026-07-3 |   Business logic vulnerabilities  | Excessive trust in client-side controls | APPRENTICE | N/A |
+| 51  | 2026-07-3 |   Business logic vulnerabilities  | High-level logic vulnerability | APPRENTICE | N/A |
+| 52  | 2026-07-3 |   Business logic vulnerabilities  | Inconsistent security controls | APPRENTICE | N/A |
+| 53  | 2026-07-3 |   Business logic vulnerabilities  | Flawed enforcement of business rules | APPRENTICE | N/A |
+| 54  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
 
