@@ -80,13 +80,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 38  | 2026-06-26 |   Path traversal  | File path traversal, traversal sequences stripped with superfluous URL-decode | PRACTITIONER | N/A |
 | 39  | 2026-06-26 |   Path traversal  | File path traversal, validation of start of path | PRACTITIONER | N/A |
 | 40  | 2026-06-26 |   Path traversal  | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
-| 41  | 2026-06-18 |   JWT  | JWT authentication bypass via unverified signature | APPRENTICE | N/A |
-| 42  | 2026-06-18 |   JWT  | JWT authentication bypass via flawed signature verification | APPRENTICE | N/A |
-| 43  | 2026-06-18 |   JWT  | JWT authentication bypass via weak signing key | PRACTITIONER | N/A |
-| 44  | 2026-06-18 |   JWT  | JWT authentication bypass via jwk header injection | PRACTITIONER | N/A |
-| 45  | 2026-06-18 |   JWT  | JWT authentication bypass via jku header injection | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
-| 39  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 41  | 2026-07-1 |   JWT  | JWT authentication bypass via unverified signature | APPRENTICE | N/A |
+| 42  | 2026-07-1 |   JWT  | JWT authentication bypass via flawed signature verification | APPRENTICE | N/A |
+| 43  | 2026-07-1 |   JWT  | JWT authentication bypass via weak signing key | PRACTITIONER | N/A |
+| 44  | 2026-07-1 |   JWT  | JWT authentication bypass via jwk header injection | PRACTITIONER | N/A |
+| 45  | 2026-07-1 |   JWT  | JWT authentication bypass via jku header injection | PRACTITIONER | N/A |
+| 46  | 2026-07-2 |   JWT  | JWT authentication bypass via kid header path traversal | PRACTITIONER | N/A |
+| 47  | 2026-07-2 |   JWT  | JWT authentication bypass via algorithm confusion | EXPERT | N/A |
+| 48  | 2026-07-2 |   JWT  | JWT authentication bypass via algorithm confusion with no exposed key | EXPERT | N/A |
+| 49  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
+| 50  | 2026-06-18 |   ****  |  | PRACTITIONER | N/A |
