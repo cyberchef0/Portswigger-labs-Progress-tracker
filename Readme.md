@@ -93,5 +93,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 51  | 2026-07-3 |   Business logic vulnerabilities  | High-level logic vulnerability | APPRENTICE | N/A |
 | 52  | 2026-07-3 |   Business logic vulnerabilities  | Inconsistent security controls | APPRENTICE | N/A |
 | 53  | 2026-07-3 |   Business logic vulnerabilities  | Flawed enforcement of business rules | APPRENTICE | N/A |
-| 54  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 54  | 2026-07-4 |   Information disclosure  | Information disclosure in error messages | APPRENTICE | N/A |
+| 55  | 2026-07-4 |   Information disclosure  | Information disclosure on debug page | APPRENTICE | N/A |
+| 56  | 2026-07-4 |   Information disclosure  | Source code disclosure via backup files | APPRENTICE | N/A |
+| 57  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 58  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
 
