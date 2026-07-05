@@ -102,7 +102,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 60  | 2026-07-5 |   Authentication  | Password reset broken logic | APPRENTICE | N/A |
 | 61  | 2026-07-5 |   Authentication  | Username enumeration via subtly different responses | PRACTITIONER | N/A |
 | 62  | 2026-07-5 |   Authentication  | 2FA broken logic | PRACTITIONER | N/A |
-| 58  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 58  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 63  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 64  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
 
 
