@@ -96,6 +96,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 54  | 2026-07-4 |   Information disclosure  | Information disclosure in error messages | APPRENTICE | N/A |
 | 55  | 2026-07-4 |   Information disclosure  | Information disclosure on debug page | APPRENTICE | N/A |
 | 56  | 2026-07-4 |   Information disclosure  | Source code disclosure via backup files | APPRENTICE | N/A |
-| 57  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 57  | 2026-07-5 |   Information disclosure  | Authentication bypass via information disclosure | PRACTITIONER | N/A |
+| 58  | 2026-07-3 |   Authentication  | Username enumeration via different responses | APPRENTICE | N/A |
+| 59  | 2026-07-5 |   Authentication  | 2FA simple bypass | APPRENTICE | N/A |
+| 60  | 2026-07-5 |   Authentication  | Password reset broken logic | APPRENTICE | N/A |
+| 61  | 2026-07-5 |   Authentication  | Username enumeration via subtly different responses | PRACTITIONER | N/A |
+| 62  | 2026-07-5 |   Authentication  | 2FA broken logic | PRACTITIONER | N/A |
 | 58  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 58  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+
 
