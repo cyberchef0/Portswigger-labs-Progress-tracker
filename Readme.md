@@ -104,6 +104,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 62  | 2026-07-5 |   Authentication  | 2FA broken logic | PRACTITIONER | N/A |
 | 63  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
 | 64  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 64  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 64  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+
 
