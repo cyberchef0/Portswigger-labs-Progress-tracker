@@ -102,8 +102,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 60  | 2026-07-5 |   Authentication  | Password reset broken logic | APPRENTICE | N/A |
 | 61  | 2026-07-5 |   Authentication  | Username enumeration via subtly different responses | PRACTITIONER | N/A |
 | 62  | 2026-07-5 |   Authentication  | 2FA broken logic | PRACTITIONER | N/A |
-| 63  | 2026-07-3 |   WebSocket  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
-| 64  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 64  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-
+| 63  | 2026-07-22 |   WebSocket  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
+| 64  | 2026-07-22 |   WebSocket  | Cross-site WebSocket hijacking | PRACTITIONER | N/A |
+| 65  | 2026-07-23 |   Race conditions  | Limit overrun race conditions | PRACTITIONER | N/A |
+| 66  | 2026-07-23 |   Race conditions  | Multi-endpoint race conditions | PRACTITIONER | N/A |
+| 67  | 2026-07-23 |   Race conditions  | Single-endpoint race conditions | PRACTITIONER | N/A |
+| 68  | 2026-07-24 |   Race conditions  | Exploiting time-sensitive vulnerabilities | PRACTITIONER | N/A |
+| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
 
