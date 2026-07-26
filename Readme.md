@@ -101,15 +101,20 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 59  | 2026-07-5 |   Authentication  | 2FA simple bypass | APPRENTICE | N/A |
 | 60  | 2026-07-5 |   Authentication  | Password reset broken logic | APPRENTICE | N/A |
 | 61  | 2026-07-5 |   Authentication  | Username enumeration via subtly different responses | PRACTITIONER | N/A |
-| 62  | 2026-07-5 |   Authentication  | 2FA broken logic | PRACTITIONER | N/A |
-| 63  | 2026-07-22 |   WebSocket  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
-| 64  | 2026-07-22 |   WebSocket  | Cross-site WebSocket hijacking | PRACTITIONER | N/A |
-| 65  | 2026-07-23 |   Race conditions  | Limit overrun race conditions | PRACTITIONER | N/A |
-| 66  | 2026-07-23 |   Race conditions  | Multi-endpoint race conditions | PRACTITIONER | N/A |
-| 67  | 2026-07-23 |   Race conditions  | Single-endpoint race conditions | PRACTITIONER | N/A |
-| 68  | 2026-07-24 |   Race conditions  | Exploiting time-sensitive vulnerabilities | PRACTITIONER | N/A |
-| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 68  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-
+| 63  | 2026-07-5 |   Authentication  | 2FA broken logic | PRACTITIONER | N/A |
+| 64  | 2026-07-20 |   XSS  | Reflected XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 65  | 2026-07-20 |   XSS  | Stored XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 66  | 2026-07-20 |   XSS  | DOM XSS in document.write sink using source location.search | PRACTITIONER | N/A |
+| 67  | 2026-07-20 |   XSS  | DOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
+| 68  | 2026-07-21 |   XSS  | DOM XSS in jQuery anchor href attribute sink using location.search source | APPRENTICE | N/A |
+| 69  | 2026-07-21 |   XSS  | DOM XSS in jQuery selector sink using a hashchange event | APPRENTICE | N/A |
+| 70  | 2026-07-21 |   XSS  | Reflected XSS into attribute with angle brackets HTML-encoded | APPRENTICE | N/A |
+| 71  | 2026-07-22 |   WebSocket  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
+| 72  | 2026-07-22 |   WebSocket  | Cross-site WebSocket hijacking | PRACTITIONER | N/A |
+| 73  | 2026-07-23 |   Race conditions  | Limit overrun race conditions | PRACTITIONER | N/A |
+| 74  | 2026-07-26 |   Race conditions  | Multi-endpoint race conditions | PRACTITIONER | N/A |
+| 75  | 2026-07-26 |   Race conditions  | Single-endpoint race conditions | PRACTITIONER | N/A |
+| 76  | 2026-07-26 |   Race conditions  | Exploiting time-sensitive vulnerabilities | PRACTITIONER | N/A |
+| 77  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 78  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 79  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
