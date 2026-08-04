@@ -115,6 +115,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 74  | 2026-07-26 |   Race conditions  | Multi-endpoint race conditions | PRACTITIONER | N/A |
 | 75  | 2026-07-26 |   Race conditions  | Single-endpoint race conditions | PRACTITIONER | N/A |
 | 76  | 2026-07-26 |   Race conditions  | Exploiting time-sensitive vulnerabilities | PRACTITIONER | N/A |
-| 77  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 78  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
-| 79  | 2026-07-3 |   ****  |  | PRACTITIONER | N/A |
+| 77  | 2026-08-4 |   File upload vulnerabilities  | Remote code execution via web shell upload | APPRENTICE | N/A |
+| 78  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via Content-Type restriction bypass | APPRENTICE | N/A |
+| 79  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via path traversal | PRACTITIONER | N/A |
+| 79  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via extension blacklist bypass | PRACTITIONER | N/A |
+| 79  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via obfuscated file extension | PRACTITIONER | N/A |
+| 79  | 2026-08-4 |   File upload vulnerabilities  |  | PRACTITIONER | N/A |
+| 79  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 79  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
