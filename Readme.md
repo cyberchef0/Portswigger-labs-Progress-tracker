@@ -122,8 +122,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 80  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via obfuscated file extension | PRACTITIONER | N/A |
 | 81  | 2026-08-5 |   Access control vulnerabilities  | Insecure direct object references | PRACTITIONER | N/A |
 | 83  | 2026-08-5 |   Access control vulnerabilities  | Unprotected admin functionality | PRACTITIONER | N/A |
-| 83  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 83  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 83  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 83  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER | N/A |
+| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
+| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
 | 83  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
