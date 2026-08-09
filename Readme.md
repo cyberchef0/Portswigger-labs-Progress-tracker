@@ -121,9 +121,15 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 79  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via extension blacklist bypass | PRACTITIONER | N/A |
 | 80  | 2026-08-4 |   File upload vulnerabilities  | Web shell upload via obfuscated file extension | PRACTITIONER | N/A |
 | 81  | 2026-08-5 |   Access control vulnerabilities  | Insecure direct object references | PRACTITIONER | N/A |
-| 83  | 2026-08-5 |   Access control vulnerabilities  | Unprotected admin functionality | PRACTITIONER | N/A |
+| 82  | 2026-08-5 |   Access control vulnerabilities  | Unprotected admin functionality | PRACTITIONER | N/A |
 | 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER | N/A |
-| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
-| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
-| 83  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
-| 83  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 84  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 85  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
+| 86  | 2026-08-7 |   SQL injection  | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
+| 87  | 2026-08-8 |   Accessing private GraphQL posts  | GraphQL API vulnerabilities | PRACTITIONER | N/A |
+| 88  | 2026-08-8 |   Accidental exposure of private GraphQL fields  | GraphQL API vulnerabilities | PRACTITIONER | N/A |
+| 89  | 2026-08-8 |   Finding a hidden GraphQL endpoint  | GraphQL API vulnerabilities | PRACTITIONER | N/A |
+| 90  | 2026-08-9 |   Exploiting an API endpoint using documentation  | API testing | PRACTITIONER | N/A |
+| 91  | 2026-08-9 |   Finding and exploiting an unused API endpoint  | API testing | PRACTITIONER | N/A |
+| 92  | 2026-08-9 |   Exploiting a mass assignment vulnerability  | API testing | PRACTITIONER | N/A |
+| 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
