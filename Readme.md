@@ -138,4 +138,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 96  | 2026-08-14 |   Access control vulnerabilities  | User role can be modified in user profile | PRACTITIONER | N/A |
 | 97  | 2026-08-15 |   Access control vulnerabilities  | User ID controlled by request parameter  | PRACTITIONER | N/A |
 | 98  | 2026-08-15 |   Access control  | URL-based access control can be circumvented | PRACTITIONER | N/A |
+| 99  | 2026-08-15 |   WebSockets  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
+| 100  | 2026-08-15 |   WebSockets  | Cross-site WebSocket hijacking | PRACTITIONER | N/A |
+| 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 | 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
