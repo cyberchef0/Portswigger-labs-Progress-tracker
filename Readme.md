@@ -132,4 +132,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 90  | 2026-08-9 |   Exploiting an API endpoint using documentation  | API testing | PRACTITIONER | N/A |
 | 91  | 2026-08-9 |   Finding and exploiting an unused API endpoint  | API testing | PRACTITIONER | N/A |
 | 92  | 2026-08-9 |   Exploiting a mass assignment vulnerability  | API testing | PRACTITIONER | N/A |
+| 93  | 2026-08-14 |   Access control vulnerabilities  | Unprotected admin functionality | PRACTITIONER | N/A |
+| 94  | 2026-08-14 |   Access control vulnerabilities  | Unprotected admin functionality with unpredictable URL | PRACTITIONER | N/A |
+| 95  | 2026-08-14 |   Access control vulnerabilities  | User role controlled by request parameter | PRACTITIONER | N/A |
+| 96  | 2026-08-14 |   Access control vulnerabilities  | User role can be modified in user profile | PRACTITIONER | N/A |
+| 97  | 2026-08-15 |   Access control vulnerabilities  | User ID controlled by request parameter  | PRACTITIONER | N/A |
+| 98  | 2026-08-15 |   Access control  | URL-based access control can be circumvented | PRACTITIONER | N/A |
 | 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
