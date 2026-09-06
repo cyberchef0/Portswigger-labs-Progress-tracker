@@ -140,6 +140,18 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 98  | 2026-08-15 |   Access control  | URL-based access control can be circumvented | PRACTITIONER | N/A |
 | 99  | 2026-08-15 |   WebSockets  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
 | 100  | 2026-08-15 |   WebSockets  | Cross-site WebSocket hijacking | PRACTITIONER | N/A |
-| 93  | 2026-08-3 |   coming back  | coming back | PRACTITIONER | N/A |
-| 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 93  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 101  | 2026-08-2 |   Server-side template injection  | Server-side template injection with information disclosure via user-supplied objects | PRACTITIONER | N/A |
+| 102  | 2026-08-2 |   Server-side template injection  | Basic server-side template injection | PRACTITIONER | N/A |
+| 103  | 2026-08-2 |   Server-side template injection  | Basic server-side template injection (code context) | PRACTITIONER | N/A |
+| 104  | 2026-08-4 |   Server-side template injection  | Server-side template injection using documentation | PRACTITIONER | N/A |
+| 105  | 2026-08-4 |   Server-side template injection  | Server-side template injection in an unknown language with a documented exploit | PRACTITIONER | N/A |
+| 106  | 2026-08-4 |   OS command injection  | OS command injection, simple case | PRACTITIONER | N/A |
+| 106  | 2026-08-6 |   OS command injection  | Blind OS command injection with time delays | PRACTITIONER | N/A |
+| 107  | 2026-08-6 |   OS command injection  | Blind OS command injection with output redirection | PRACTITIONER | N/A |
+| 108  | 2026-08-6 |   OS command injection  | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
+| 109  | 2026-08-6 |   OS command injection  | Blind OS command injection with out-of-band data exfiltration | PRACTITIONER | N/A |
+| 110  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 111  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 112  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 113  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+
