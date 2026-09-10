@@ -154,4 +154,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 111  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 | 112  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 | 113  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 114  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 115  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 
