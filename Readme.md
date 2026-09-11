@@ -150,7 +150,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 107  | 2026-08-6 |   OS command injection  | Blind OS command injection with output redirection | PRACTITIONER | N/A |
 | 108  | 2026-08-6 |   OS command injection  | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
 | 109  | 2026-08-6 |   OS command injection  | Blind OS command injection with out-of-band data exfiltration | PRACTITIONER | N/A |
-| 110  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 110  | 2026-08-10 |   HTTP request smuggling  | HTTP request smuggling, basic TE.CL vulnerability | PRACTITIONER | N/A |
 | 111  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 | 112  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 | 113  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
