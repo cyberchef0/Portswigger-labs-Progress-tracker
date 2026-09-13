@@ -140,20 +140,28 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 98  | 2026-08-15 |   Access control  | URL-based access control can be circumvented | PRACTITIONER | N/A |
 | 99  | 2026-08-15 |   WebSockets  | Manipulating WebSocket messages to exploit vulnerabilities | PRACTITIONER | N/A |
 | 100  | 2026-08-15 |   WebSockets  | Cross-site WebSocket hijacking | PRACTITIONER | N/A |
-| 101  | 2026-08-2 |   Server-side template injection  | Server-side template injection with information disclosure via user-supplied objects | PRACTITIONER | N/A |
-| 102  | 2026-08-2 |   Server-side template injection  | Basic server-side template injection | PRACTITIONER | N/A |
-| 103  | 2026-08-2 |   Server-side template injection  | Basic server-side template injection (code context) | PRACTITIONER | N/A |
-| 104  | 2026-08-4 |   Server-side template injection  | Server-side template injection using documentation | PRACTITIONER | N/A |
-| 105  | 2026-08-4 |   Server-side template injection  | Server-side template injection in an unknown language with a documented exploit | PRACTITIONER | N/A |
-| 106  | 2026-08-4 |   OS command injection  | OS command injection, simple case | PRACTITIONER | N/A |
-| 106  | 2026-08-6 |   OS command injection  | Blind OS command injection with time delays | PRACTITIONER | N/A |
-| 107  | 2026-08-6 |   OS command injection  | Blind OS command injection with output redirection | PRACTITIONER | N/A |
-| 108  | 2026-08-6 |   OS command injection  | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
-| 109  | 2026-08-6 |   OS command injection  | Blind OS command injection with out-of-band data exfiltration | PRACTITIONER | N/A |
-| 110  | 2026-08-10 |   HTTP request smuggling  | HTTP request smuggling, basic TE.CL vulnerability | PRACTITIONER | N/A |
-| 111  | 2026-08-3 |   HTTP request smuggling  | HTTP request smuggling, basic CL.TE vulnerability | PRACTITIONER | N/A |
-| 112  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 113  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 114  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
-| 115  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 101  | 2026-09-2 |   Server-side template injection  | Server-side template injection with information disclosure via user-supplied objects | PRACTITIONER | N/A |
+| 102  | 2026-09-2 |   Server-side template injection  | Basic server-side template injection | PRACTITIONER | N/A |
+| 103  | 2026-09-2 |   Server-side template injection  | Basic server-side template injection (code context) | PRACTITIONER | N/A |
+| 104  | 2026-09-4 |   Server-side template injection  | Server-side template injection using documentation | PRACTITIONER | N/A |
+| 105  | 2026-09-4 |   Server-side template injection  | Server-side template injection in an unknown language with a documented exploit | PRACTITIONER | N/A |
+| 106  | 2026-09-4 |   OS command injection  | OS command injection, simple case | PRACTITIONER | N/A |
+| 106  | 2026-09-6 |   OS command injection  | Blind OS command injection with time delays | PRACTITIONER | N/A |
+| 107  | 2026-09-6 |   OS command injection  | Blind OS command injection with output redirection | PRACTITIONER | N/A |
+| 108  | 2026-09-6 |   OS command injection  | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
+| 109  | 2026-09-6 |   OS command injection  | Blind OS command injection with out-of-band data exfiltration | PRACTITIONER | N/A |
+| 110  | 2026-09-10 |   HTTP request smuggling  | HTTP request smuggling, basic TE.CL vulnerability | PRACTITIONER | N/A |
+| 111  | 2026-09-10|   HTTP request smuggling  | HTTP request smuggling, basic CL.TE vulnerability | PRACTITIONER | N/A |
+| 112  | 2026-08-10 |   HTTP request smuggling  | HTTP request smuggling, obfuscating the TE header | PRACTITIONER | N/A |
+| 113  | 2026-09-11 |   HTTP request smuggling  | Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability | PRACTITIONER | N/A |
+| 114  | 2026-09-11 |   HTTP request smuggling  | Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability | PRACTITIONER | N/A |
+| 116  | 2026-09-12 |   HTTP request smuggling  | HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | PRACTITIONER | N/A |
+| 117  | 2026-09-12 |   HTTP request smuggling  | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses | PRACTITIONER | N/A |
+| 118  | 2026-09-13 |   HTTP request smuggling  | Exploiting HTTP request smuggling to reveal front-end request rewriting | PRACTITIONER | N/A |
+| 119  | 2026-09-13 |   HTTP request smuggling  | Exploiting HTTP request smuggling to capture other users' requests | PRACTITIONER | N/A |
+| 120  | 2026-09-13 |   HTTP request smuggling  | Exploiting HTTP request smuggling to deliver reflected XSS | PRACTITIONER | N/A |
+| 121  | 2026-09-13 |   HTTP request smuggling  | Response queue poisoning via H2.TE request smuggling | PRACTITIONER | N/A |
+| 121  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 121  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
+| 121  | 2026-08-3 |   ****  |  | PRACTITIONER | N/A |
 
